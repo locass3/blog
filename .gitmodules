@@ -1,0 +1,7 @@
+[submodule "thezu/themes/hugo-clarity"]
+	path = thezu/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
+[submodule "thezu/public"]
+	path = thezu/public
+	url = https://github.com/locass3/locass3.github.io
+	branch = main
